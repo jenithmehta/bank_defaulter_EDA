@@ -1,6 +1,8 @@
 # bank_defaulter_prediction
 EDA on Bank loan data
 
+dataset link:-
+https://www.kaggle.com/code/shrutidandagi/eda-bank-loan-default/data
 
 **Business Understanding**
 
