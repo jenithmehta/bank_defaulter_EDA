@@ -1,4 +1,4 @@
-# bank_defaulter_prediction
+# bank_defaulter_EDA
 EDA on Bank loan data
 
 dataset link:-
